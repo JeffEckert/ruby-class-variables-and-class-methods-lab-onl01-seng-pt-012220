@@ -6,4 +6,7 @@ class Song
     @artist = artist
     @genre = genre
   end
+  
+  def genre_count
+    
 end
