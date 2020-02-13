@@ -27,5 +27,6 @@ class Song
     @@genres.uniq
   end
   
-  
+  def self.song.gemre_count
+    
 end
